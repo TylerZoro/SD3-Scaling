@@ -1,0 +1,14 @@
+[project]
+name = "sd3-scaling"
+description = "Tools for scaling images and latents appropriate to SD3 in ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/TylerZoro/SD3-Scaling"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "SD3-Scaling"
+Icon = ""
